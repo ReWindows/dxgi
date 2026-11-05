@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "dxgi.dll",
+  "latest": "2841343739-5772469FB293D6CAF3C5C6E237984B9F-1",
+  "builds": [
+    {
+      "key": "2841343739-5772469FB293D6CAF3C5C6E237984B9F-1",
+      "timestamp": "2841343739",
+      "pdb_guid": "5772469FB293D6CAF3C5C6E237984B9F",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2841343739-5772469FB293D6CAF3C5C6E237984B9F-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
